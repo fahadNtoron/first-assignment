@@ -73,8 +73,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap:48px
-    margin: 74px 152px 90px 148px;
+    gap:48px;
 }
 .you{
     border:3px solid#cfd0d3 ;
@@ -83,3 +82,48 @@
     width: 1500px;
     height:650px;
 }
+.area{
+width: 250px;
+height:280px ;
+display: flex;
+flex-direction: column;
+justify-content: left;
+}
+.icon{
+    width: 56px;height: 56px;
+}
+.cardN{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 48px 200px 0px 200px;
+}
+.bg1{
+background-color: #fff6f4;
+}
+.bg2{
+background-color:#f2f6fe ;
+}
+.bg3{
+background-color: #fffdf2;
+}
+.design{
+    padding:35px;
+    border-radius: 35px;
+}
+.no{
+    text-decoration: none;
+    color:black;
+}
+.card3{
+    background-color: transparent;
+    border: 5px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: left;
+}
+.card-holder2{
+    display: flex;
+    margin: 74px 152px 90px 148px;
+    background-color:transparent;
+    flex-direction:column;}
