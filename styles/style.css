@@ -144,9 +144,11 @@ gap: 24px;}
         background-image: url("../assets/handshake.jpg");
         background-size:cover;
         background-repeat: no-repeat;
-        gap: 30px;
+        gap: 40px;
+        height: 700px;
         margin: 74px 152px 90px 148px;
         color: white;
+        border-radius: 15px;
 
     }
     .input{
@@ -161,4 +163,8 @@ gap: 24px;}
         display: flex;
         margin: 74px 150px 90px 150px;
         justify-content: space-between;
+        background-color: #cfd0d3;
+        border-radius: 15px;
+        padding: 20px;
+        align-items: center;
     }
