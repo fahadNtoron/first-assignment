@@ -157,3 +157,8 @@ gap: 24px;}
         background-color: white;
         border-radius: 20px;
     }
+    .foot{
+        display: flex;
+        margin: 74px 150px 90px 150px;
+        justify-content: space-between;
+    }
